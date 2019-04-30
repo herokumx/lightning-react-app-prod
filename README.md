@@ -1,4 +1,4 @@
-# Lightning Design System and React Reference App
+# Based on the Lightning Design System & is a React Reference App
 
 This repository is the home of **Lightning Realty**, a reference application built with [React](http://facebook.github.io/react/) and the [Lightning Design System](http://www.lightningdesignsystem.com). 
 
