@@ -60,6 +60,6 @@ This project is work in progress. For example, here are some items that still ne
 - Create more components
 - Fix React keys throughout the project
 - Improved navigation system
-- etc.
+- etc
 
 
