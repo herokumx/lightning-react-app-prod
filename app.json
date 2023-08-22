@@ -2,5 +2,5 @@
   "name": "Lightning Realty Company",
   "description": "Reference app built with the Lightning Design System and React",
   "repository": "https://github.com/ccoenraets/lightning-react-app",
-  "addons": ["heroku-postgresql:hobby-dev"]
+  "addons": ["heroku-postgresql:mini"]
 }
